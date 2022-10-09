@@ -1,0 +1,29 @@
+INTERVIEW QUESTIONS IN NXP :
+Storage Classes in C
+Volatile Keyword
+Const Keyword
+Usage of Volatile and Const Keywords in real life.(Ex: Reading Data from Pen drives)
+C Program Compilation Stages
+Struct vs Union
+Pass By Value and Pass By Reference for Pointers
+Calculate the Size of the struct without using the inbuilt function. (use pointer arithmetic)
+What are the Different roles/components of OS?
+What is Inter-Process Communication? Its Types.Explain
+Scheduling Algorithms
+Types of Memory
+Hierarchy of Memory in Computers.
+
+Macro to Multiply two Arithmetic Expressions.
+Stages of C program Compilation.
+There are two overlapping blocks of Memory, and we have to copy data from one block to another.
+Process Context
+Swapping Of Process
+Need of OS.
+
+
+https://www.geeksforgeeks.org/tag/nxp/
+https://aticleworld.com/c-interview-questions/
+https://www.interviewbit.com/operating-system-interview-questions/
+https://www.interviewbit.com/networking-interview-questions/
+https://www.geeksforgeeks.org/computer-memory/
+https://byjus.com/gate/design-and-characteristics-of-memory-hierarchy-notes/
